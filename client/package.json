@@ -1,0 +1,46 @@
+{
+  "name": "googlebookssearch",
+  "version": "1.0.0",
+  "proxy": "http://localhost:3001/",
+  "description": "A React-based Google Books Search App",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "nodemon": "^2.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizharris90210/googleBooksSearch.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "lizharris90210",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizharris90210/googleBooksSearch/issues"
+  },
+  "homepage": "https://github.com/lizharris90210/googleBooksSearch#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
